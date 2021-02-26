@@ -2,7 +2,7 @@
 #include <SoftwareSerial.h>
 #include <gprs.h>
 SoftwareSerial sim800l(3, 2);
-//versie 9.4
+//versie 9.5
 
 //beltegoed checken
 //SMS dan gratis het woord BUNDELTEGOED naar nummer 1266 om je tegoed en de houdbaarheid van je bundel(s) op te vragen.
